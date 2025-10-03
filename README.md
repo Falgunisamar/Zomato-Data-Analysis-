@@ -17,20 +17,10 @@ This project is an **Exploratory Data Analysis (EDA)** of the Zomato restaurant 
 * **File**: `zomato.csv`
 * **Columns**: Each record includes attributes such as a unique phone,address. Also includes other coloumns like url, name, online_order, book_table, rates, dish_liked, cuisines, approx_cost(for two people).
 
-## 🛠️ Tools & Libraries
-
-* **Python** (3.9+)
-* **Pandas & NumPy** → Data preprocessing and manipulation
-* **Matplotlib & Seaborn** → Data visualization
-* **Jupyter Notebook** → Interactive analysis
-
 ## 📈 Key Insights & Visualizations
 
-* **Top Restaurant Chains** → Identified the most popular chains.
 * **City-wise Distribution** → Highlighted cities with maximum restaurants.
-* **Cost Analysis** → Compared average cost for two across countries and cities.
 * **Rating Trends** → Explored how rating influences popularity.
-* **Cuisine Preferences** → Analyzed most common cuisines across locations.
 * **Delivery vs Dine-in** → Studied customer preferences between online and offline dining.
 
 <img width="719" height="539" alt="image" src="https://github.com/user-attachments/assets/55ef5a14-29ec-4f33-bcd2-69b12493c778" />
